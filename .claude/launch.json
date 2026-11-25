@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "trendy-space",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5179",
+        "--bind",
+        "127.0.0.1"
+      ],
+      "port": 5179
+    }
+  ]
+}
